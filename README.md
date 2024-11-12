@@ -1,6 +1,6 @@
 ## Olá, meu nome é Heric Rodrigues
 
-🚀🚀  Estou em busca de uma oportunidade de estágio na área de Full-Stack ou Analsta de Dados. Meu objetivo é aplicar os conhecimentos adquiridos durante minha formação acadêmica e contribuir para o desenvolvimento de projetos.
+🚀🚀  Estou em busca de uma oportunidade de estágio na área de Full-Stack ou Analista de Dados. Meu objetivo é aplicar os conhecimentos adquiridos durante minha formação acadêmica e contribuir para o desenvolvimento de projetos.
 
 
 💻📓  **Atualmente, estou no 3º ano do Bacharelado em Ciência da Computação.**
