@@ -1,9 +1,7 @@
 ## Olá, meu nome é Heric Silva
 
-🚀🚀  Em busca de ser um **JEDI do Full-Stack**. Meu objetivo é aplicar os conhecimentos adquiridos durante minha formação acadêmica e contribuir para o desenvolvimento de projetos.
+🚀🚀  Em busca de ser um **Arquiteto de Software**. Meu objetivo é aplicar os conhecimentos adquiridos durante minha formação acadêmica e contribuir para o desenvolvimento de projetos.
 
-
-💻📓  **Atualmente, estou no 3º ano do Bacharelado em Ciência da Computação.**
 
 
 <div> 
